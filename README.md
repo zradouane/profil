@@ -1,6 +1,13 @@
+
 # Profil
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+
+## Getting started
+
+First you have to install node.js go to their wesbtite, download and install the recommended version
+Secondly, install angular globally with this command ` npm install @angular/cli`
+Finally, to install all the dependencies of the project run this command `npm install`
 
 ## Development server
 
@@ -25,3 +32,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
